@@ -1,1 +1,1 @@
-Welcome to Pixel Learning Co. This is a sample audio course content that demonstrates our text-to-speech conversion pipeline. Amazon Polly provides high-quality, natural-sounding voices that make learning accessible to everyone.
+This is a test of the beta environment. Amazon Polly will convert this text to speech and upload it to the S3 bucket for review before production deployment.
