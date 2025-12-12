@@ -68,7 +68,11 @@ if __name__ == "__main__":
         sys.exit(1)
     
     # Configuration
-    text_file = 'speech.txt'
+     if environment == 'beta':
+        text_file = 'speech-beta.txt'
+    else:
+        text_file = 'speech.txt'
+    
     output_file = 'output.mp3'
     s3_key = f'polly-audio/{environment}.mp3'
     
