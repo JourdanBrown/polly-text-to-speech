@@ -1,1 +1,1 @@
-This is a test of the beta environment. Amazon Polly will convert this text to speech and upload it to the S3 bucket for review before production deployment.
+Welcome to Pixel Learning Co. This is the official production audio for our course content.
