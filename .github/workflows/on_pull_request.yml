@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'speech.txt'
+      - 'speech-beta.txt'
       - 'synthesize.py'
       - '.github/workflows/on_pull_request.yml'
 
